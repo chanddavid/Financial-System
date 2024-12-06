@@ -1,0 +1,1271 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "random,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random.",
+        "description": "random.",
+        "detail": "random.",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "Http404",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "exception_handler",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "JWTAuthentication",
+        "importPath": "rest_framework_simplejwt.authentication",
+        "description": "rest_framework_simplejwt.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "swagger_auto_schema",
+        "importPath": "drf_yasg.utils",
+        "description": "drf_yasg.utils",
+        "isExtraImport": true,
+        "detail": "drf_yasg.utils",
+        "documentation": {}
+    },
+    {
+        "label": "swagger_auto_schema",
+        "importPath": "drf_yasg.utils",
+        "description": "drf_yasg.utils",
+        "isExtraImport": true,
+        "detail": "drf_yasg.utils",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "django.db.utils",
+        "description": "django.db.utils",
+        "isExtraImport": true,
+        "detail": "django.db.utils",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "finance.logger",
+        "description": "finance.logger",
+        "isExtraImport": true,
+        "detail": "finance.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "finance.logger",
+        "description": "finance.logger",
+        "isExtraImport": true,
+        "detail": "finance.logger",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "Account.models",
+        "description": "Account.models",
+        "isExtraImport": true,
+        "detail": "Account.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "OrderingFilter",
+        "importPath": "rest_framework.filters",
+        "description": "rest_framework.filters",
+        "isExtraImport": true,
+        "detail": "rest_framework.filters",
+        "documentation": {}
+    },
+    {
+        "label": "PageNumberPagination",
+        "importPath": "rest_framework.pagination",
+        "description": "rest_framework.pagination",
+        "isExtraImport": true,
+        "detail": "rest_framework.pagination",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Income",
+        "importPath": "Management.models",
+        "description": "Management.models",
+        "isExtraImport": true,
+        "detail": "Management.models",
+        "documentation": {}
+    },
+    {
+        "label": "Expense",
+        "importPath": "Management.models",
+        "description": "Management.models",
+        "isExtraImport": true,
+        "detail": "Management.models",
+        "documentation": {}
+    },
+    {
+        "label": "Loan",
+        "importPath": "Management.models",
+        "description": "Management.models",
+        "isExtraImport": true,
+        "detail": "Management.models",
+        "documentation": {}
+    },
+    {
+        "label": "TruncMonth",
+        "importPath": "django.db.models.functions",
+        "description": "django.db.models.functions",
+        "isExtraImport": true,
+        "detail": "django.db.models.functions",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "drf_yasg.views",
+        "description": "drf_yasg.views",
+        "isExtraImport": true,
+        "detail": "drf_yasg.views",
+        "documentation": {}
+    },
+    {
+        "label": "openapi",
+        "importPath": "drf_yasg",
+        "description": "drf_yasg",
+        "isExtraImport": true,
+        "detail": "drf_yasg",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Account.migrations.0001_initial",
+        "description": "Account.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Users',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "Account.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Account.migrations.0002_alter_users_is_active",
+        "description": "Account.migrations.0002_alter_users_is_active",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Account', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='users',\n            name='is_active',\n            field=models.BooleanField(default=True, verbose_name='Active'),\n        ),",
+        "detail": "Account.migrations.0002_alter_users_is_active",
+        "documentation": {}
+    },
+    {
+        "label": "UsersAdmin",
+        "kind": 6,
+        "importPath": "Account.admin",
+        "description": "Account.admin",
+        "peekOfCode": "class UsersAdmin(admin.ModelAdmin):\n    list_display = ['id','username','phone_number','email']\n    list_display_links = ['id','username',]\n    list_filter = ['username','email','phone_number']\n    search_fields = ['email','username','phone_number']\n    user_fieldsets = (\n        (None, {'fields': ('username', 'password')}),\n        (_('Personal info'), {'fields': ( 'email','phone_number','date_of_birth','citizenship_number','address')}),\n        (_('Permissions'), {\n            'fields': ('is_active','is_superuser','user_permissions'),",
+        "detail": "Account.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AccountConfig",
+        "kind": 6,
+        "importPath": "Account.apps",
+        "description": "Account.apps",
+        "peekOfCode": "class AccountConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Account'",
+        "detail": "Account.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomAccountManager",
+        "kind": 6,
+        "importPath": "Account.models",
+        "description": "Account.models",
+        "peekOfCode": "class CustomAccountManager(BaseUserManager):\n    def create_user(self, email, username, password=None, **other_fields):\n        email = self.normalize_email(email)\n        user  = self.model(email=email, username=username, **other_fields)\n        if password is None:\n            S = 10 \n            password=''.join(random.choices(string.ascii_uppercase + string.digits, k = S))\n        user.set_password(password)\n        user.save()\n        Token.objects.get_or_create(user=user)",
+        "detail": "Account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "kind": 6,
+        "importPath": "Account.models",
+        "description": "Account.models",
+        "peekOfCode": "class Users(AbstractBaseUser, PermissionsMixin):\n    email = models.EmailField(verbose_name='Email', unique=True)\n    username = models.CharField(verbose_name='Username',max_length=255)\n    phone_number = models.CharField(max_length=15, blank=True, null=True)\n    date_of_birth = models.DateField(blank=True, null=True)\n    citizenship_number = models.CharField(max_length=50, blank=True, null=True)\n    address = models.JSONField(blank=True, null=True)  \n    is_active = models.BooleanField(verbose_name='Active',default=True)\n    is_staff  = models.BooleanField(verbose_name='Staff',default=False)\n    is_supervisor= models.BooleanField(verbose_name='Supervisor',default=False)",
+        "detail": "Account.models",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterSerializer",
+        "kind": 6,
+        "importPath": "Account.serializers",
+        "description": "Account.serializers",
+        "peekOfCode": "class RegisterSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Users\n        fields = ['username', 'email', 'password', 'phone_number', 'date_of_birth', 'citizenship_number', 'address']\n        extra_kwargs = {'password': {'write_only': True}}\n    def create(self, validated_data):\n        user = Users.objects.create_user(**validated_data)\n        return user\nclass LoginSerializer(serializers.Serializer):\n    email = serializers.EmailField()",
+        "detail": "Account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSerializer",
+        "kind": 6,
+        "importPath": "Account.serializers",
+        "description": "Account.serializers",
+        "peekOfCode": "class LoginSerializer(serializers.Serializer):\n    email = serializers.EmailField()\n    password = serializers.CharField(write_only=True)\nclass UserProfileSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Users\n        fields = ['username', 'email', 'phone_number', 'date_of_birth', 'citizenship_number', 'address']",
+        "detail": "Account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileSerializer",
+        "kind": 6,
+        "importPath": "Account.serializers",
+        "description": "Account.serializers",
+        "peekOfCode": "class UserProfileSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Users\n        fields = ['username', 'email', 'phone_number', 'date_of_birth', 'citizenship_number', 'address']",
+        "detail": "Account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Account.urls",
+        "description": "Account.urls",
+        "peekOfCode": "urlpatterns = [\n    path('register/', RegisterView.as_view(), name='register'),\n    path('login/', LoginView.as_view(), name='login'),\n    path('profile/', UserProfileView.as_view(), name='profile'),\n]\n# router = DefaultRouter()\n# router.register('register/', RegisterViewSet, basename='income')\n# router.register('login/', LoginViewSet, basename='expense')\n# router.register('profile/', UserProfileViewSet, basename='loan')\n# urlpatterns = [",
+        "detail": "Account.urls",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterView",
+        "kind": 6,
+        "importPath": "Account.views",
+        "description": "Account.views",
+        "peekOfCode": "class RegisterView(APIView):\n    def post(self, request):\n        serializer = RegisterSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response({'message': 'User registered successfully'}, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n# class RegisterViewSet(viewsets.ViewSet):\n#     def create(self, request):\n#         serializer = RegisterSerializer(data=request.data)",
+        "detail": "Account.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "kind": 6,
+        "importPath": "Account.views",
+        "description": "Account.views",
+        "peekOfCode": "class LoginView(APIView):\n    authentication_classes = [JWTAuthentication]\n    def post(self, request):\n        serializer = LoginSerializer(data=request.data)\n        if serializer.is_valid():\n            user = Users.objects.filter(email=serializer.validated_data['email']).first()\n            if user and user.check_password(serializer.validated_data['password']):\n                refresh = RefreshToken.for_user(user)\n                return Response({\n                    'refresh': str(refresh),",
+        "detail": "Account.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileView",
+        "kind": 6,
+        "importPath": "Account.views",
+        "description": "Account.views",
+        "peekOfCode": "class UserProfileView(APIView):\n    authentication_classes = [JWTAuthentication]\n    permission_classes = [IsAuthenticated]\n    def get(self, request):\n        serializer = UserProfileSerializer(request.user)\n        return Response(serializer.data)\n    def put(self, request):\n        serializer = UserProfileSerializer(request.user, data=request.data, partial=True)\n        if serializer.is_valid():\n            serializer.save()",
+        "detail": "Account.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Management.migrations.0001_initial",
+        "description": "Management.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Expense',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "Management.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "IncomeAdmin",
+        "kind": 6,
+        "importPath": "Management.admin",
+        "description": "Management.admin",
+        "peekOfCode": "class IncomeAdmin(admin.ModelAdmin):\n    list_display = ['id','user','source_name','amount']\n    list_display_links = ['id','user',]\n    list_filter = ['user','source_name','status']\n    search_fields = ['user__username','status','source_name','amount']\n@admin.register(Expense)\nclass ExpenseAdmin(admin.ModelAdmin):\n    list_display = ['id','user','category','amount']\n    list_display_links = ['id','user',]\n    list_filter = ['user','category','status']",
+        "detail": "Management.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ExpenseAdmin",
+        "kind": 6,
+        "importPath": "Management.admin",
+        "description": "Management.admin",
+        "peekOfCode": "class ExpenseAdmin(admin.ModelAdmin):\n    list_display = ['id','user','category','amount']\n    list_display_links = ['id','user',]\n    list_filter = ['user','category','status']\n    search_fields = ['user__username','status','category','amount']\n@admin.register(Loan)\nclass LoanAdmin(admin.ModelAdmin):\n    list_display = ['id','user','loan_name','status']\n    list_display_links = ['id','user',]\n    list_filter = ['user','loan_name','status']",
+        "detail": "Management.admin",
+        "documentation": {}
+    },
+    {
+        "label": "LoanAdmin",
+        "kind": 6,
+        "importPath": "Management.admin",
+        "description": "Management.admin",
+        "peekOfCode": "class LoanAdmin(admin.ModelAdmin):\n    list_display = ['id','user','loan_name','status']\n    list_display_links = ['id','user',]\n    list_filter = ['user','loan_name','status']\n    search_fields = ['user__username','status','loan_name']",
+        "detail": "Management.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ManagementConfig",
+        "kind": 6,
+        "importPath": "Management.apps",
+        "description": "Management.apps",
+        "peekOfCode": "class ManagementConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Management'",
+        "detail": "Management.apps",
+        "documentation": {}
+    },
+    {
+        "label": "IncomingRequestHandleMiddleware",
+        "kind": 6,
+        "importPath": "Management.middleware",
+        "description": "Management.middleware",
+        "peekOfCode": "class IncomingRequestHandleMiddleware:\n    def __init__(self, get_response):\n        self.get_response = get_response\n    def __call__(self, request):\n        logger.info(f\"{request.method}\")\n        logger.info(f\"{request.get_full_path()}\")\n        logger.info(f\"{dict(request.headers)}\")\n        if request.method in ['POST', 'PUT', 'PATCH']:\n            try:\n                body = json.loads(request.body)",
+        "detail": "Management.middleware",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorHandleMiddleware",
+        "kind": 6,
+        "importPath": "Management.middleware",
+        "description": "Management.middleware",
+        "peekOfCode": "class ErrorHandleMiddleware:\n    def __init__(self, get_response):\n        self.get_response = get_response\n    def __call__(self, request):\n        try:\n            response = self.get_response(request)\n        except ValidationError as e:\n            logger.exception(stack_info=False, msg=f\"validation error={e.args}\")\n            return JsonResponse({'error': 'Invalid data', 'details': str(e)}, status=400)\n        except IntegrityError as e:",
+        "detail": "Management.middleware",
+        "documentation": {}
+    },
+    {
+        "label": "Income",
+        "kind": 6,
+        "importPath": "Management.models",
+        "description": "Management.models",
+        "peekOfCode": "class Income(models.Model):\n    STATUS_CHOICES = [\n        ('Pending', 'Pending'),\n        ('Received', 'Received'),\n    ]\n    user = models.ForeignKey(Users, on_delete=models.CASCADE, related_name='incomes')\n    source_name = models.CharField(max_length=255)\n    amount = models.DecimalField(max_digits=10, decimal_places=2)\n    date_received = models.DateField()\n    status = models.CharField(max_length=10, choices=STATUS_CHOICES)",
+        "detail": "Management.models",
+        "documentation": {}
+    },
+    {
+        "label": "Expense",
+        "kind": 6,
+        "importPath": "Management.models",
+        "description": "Management.models",
+        "peekOfCode": "class Expense(models.Model):\n    STATUS_CHOICES = [\n        ('Pending', 'Pending'),\n        ('Paid', 'Paid'),\n    ]\n    user = models.ForeignKey(Users, on_delete=models.CASCADE)\n    category = models.CharField(max_length=100)\n    amount = models.DecimalField(max_digits=10, decimal_places=2)\n    due_date = models.DateField()\n    status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='Pending')",
+        "detail": "Management.models",
+        "documentation": {}
+    },
+    {
+        "label": "Loan",
+        "kind": 6,
+        "importPath": "Management.models",
+        "description": "Management.models",
+        "peekOfCode": "class Loan(models.Model):\n    STATUS_CHOICES = [\n        ('Active', 'Active'),\n        ('Paid', 'Paid'),\n    ]\n    user = models.ForeignKey(Users, on_delete=models.CASCADE)\n    loan_name = models.CharField(max_length=255)\n    principal_amount = models.DecimalField(max_digits=12, decimal_places=2)\n    interest_rate = models.DecimalField(max_digits=5, decimal_places=2) \n    tenure_months = models.PositiveIntegerField()",
+        "detail": "Management.models",
+        "documentation": {}
+    },
+    {
+        "label": "IncomeSerializer",
+        "kind": 6,
+        "importPath": "Management.serializers",
+        "description": "Management.serializers",
+        "peekOfCode": "class IncomeSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Income\n        fields = ['id', 'source_name', 'amount', 'date_received', 'status', 'notes']\n    def validate_amount(self, value):\n        if value < 0:\n            raise serializers.ValidationError(\"the amount cannot be negative\")\n        return value\nclass ExpenseSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "Management.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ExpenseSerializer",
+        "kind": 6,
+        "importPath": "Management.serializers",
+        "description": "Management.serializers",
+        "peekOfCode": "class ExpenseSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Expense\n        fields = ['id', 'category', 'amount', 'due_date', 'status', 'notes']\nclass LoanSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Loan\n        fields = ['loan_name', 'principal_amount', 'interest_rate', 'tenure_months','remaining_balance', 'status', 'notes']",
+        "detail": "Management.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "LoanSerializer",
+        "kind": 6,
+        "importPath": "Management.serializers",
+        "description": "Management.serializers",
+        "peekOfCode": "class LoanSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Loan\n        fields = ['loan_name', 'principal_amount', 'interest_rate', 'tenure_months','remaining_balance', 'status', 'notes']",
+        "detail": "Management.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Management.urls",
+        "description": "Management.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('incomes', IncomeViewSet, basename='income')\nrouter.register('expenses', ExpenseViewSet, basename='expense')\nrouter.register('loans', LoanViewSet, basename='loan')\nurlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "Management.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Management.urls",
+        "description": "Management.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "Management.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CustomPagination",
+        "kind": 6,
+        "importPath": "Management.views",
+        "description": "Management.views",
+        "peekOfCode": "class CustomPagination(PageNumberPagination):\n    page_size_query_param = 'page_size'\nclass IncomeViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = IncomeSerializer\n    # pagination_class = CustomPagination\n    filter_backends = [DjangoFilterBackend, OrderingFilter]\n    filterset_fields = {\n        'source_name': ['exact', 'icontains'],\n        'date_received': ['exact', 'gte', 'lte'],",
+        "detail": "Management.views",
+        "documentation": {}
+    },
+    {
+        "label": "IncomeViewSet",
+        "kind": 6,
+        "importPath": "Management.views",
+        "description": "Management.views",
+        "peekOfCode": "class IncomeViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = IncomeSerializer\n    # pagination_class = CustomPagination\n    filter_backends = [DjangoFilterBackend, OrderingFilter]\n    filterset_fields = {\n        'source_name': ['exact', 'icontains'],\n        'date_received': ['exact', 'gte', 'lte'],\n        'status': ['exact'],\n    }",
+        "detail": "Management.views",
+        "documentation": {}
+    },
+    {
+        "label": "ExpenseViewSet",
+        "kind": 6,
+        "importPath": "Management.views",
+        "description": "Management.views",
+        "peekOfCode": "class ExpenseViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = ExpenseSerializer\n    pagination_class = CustomPagination\n    filter_backends = [DjangoFilterBackend, OrderingFilter]\n    filterset_fields = {\n        'category': ['exact', 'icontains'],\n        'due_date': ['exact', 'gte', 'lte'],\n        'status': ['exact'],\n    }",
+        "detail": "Management.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoanViewSet",
+        "kind": 6,
+        "importPath": "Management.views",
+        "description": "Management.views",
+        "peekOfCode": "class LoanViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = LoanSerializer\n    pagination_class = CustomPagination\n    filter_backends = [DjangoFilterBackend, OrderingFilter]\n    filterset_fields = {\n        'loan_name': ['exact', 'icontains'],\n        'status': ['exact'],\n        'remaining_balance': ['gte', 'lte'],\n    }",
+        "detail": "Management.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReportConfig",
+        "kind": 6,
+        "importPath": "Report.apps",
+        "description": "Report.apps",
+        "peekOfCode": "class ReportConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Report'",
+        "detail": "Report.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Report.urls",
+        "description": "Report.urls",
+        "peekOfCode": "urlpatterns = [\n    path('financial_summary/', FinancialSummary, name='financial_summary'),\n    path('report_visualization_trend/', ReportVisualizationTrend, name='report_visualization_trend'),\n]",
+        "detail": "Report.urls",
+        "documentation": {}
+    },
+    {
+        "label": "FinancialSummary",
+        "kind": 2,
+        "importPath": "Report.views",
+        "description": "Report.views",
+        "peekOfCode": "def FinancialSummary(request):\n    try:\n        filters = {'user': request.user}\n        user = request.user\n        logger.info(f\" request of user {user}\")\n        start_date = request.query_params.get('start_date')\n        end_date = request.query_params.get('end_date')\n        if start_date:\n            filters['created_at__gte'] = start_date\n        if end_date:",
+        "detail": "Report.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReportVisualizationTrend",
+        "kind": 2,
+        "importPath": "Report.views",
+        "description": "Report.views",
+        "peekOfCode": "def ReportVisualizationTrend(request):\n    # Parse the query parameters for date filtering\n    start_date = request.query_params.get('start_date')\n    end_date = request.query_params.get('end_date')\n    filters = {'user': request.user}\n    if start_date:\n        filters['created_at__gte'] = start_date\n    if end_date:\n        filters['created_at__lte'] = end_date\n    # Aggregate income and expenses by  ",
+        "detail": "Report.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "finance.asgi",
+        "description": "finance.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "finance.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "finance.logger",
+        "description": "finance.logger",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nlogger.setLevel(logging.INFO)",
+        "detail": "finance.logger",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = config('SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = config('DEBUG',default=False,cast=bool)\nALLOWED_HOSTS = config('ALLOWED_HOSTS',cast=tuple)\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "SECRET_KEY = config('SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = config('DEBUG',default=False,cast=bool)\nALLOWED_HOSTS = config('ALLOWED_HOSTS',cast=tuple)\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "DEBUG = config('DEBUG',default=False,cast=bool)\nALLOWED_HOSTS = config('ALLOWED_HOSTS',cast=tuple)\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "ALLOWED_HOSTS = config('ALLOWED_HOSTS',cast=tuple)\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework.authtoken',\n    'rest_framework_simplejwt',",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'Account.Users'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'Management.middleware.IncomingRequestHandleMiddleware',",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'Management.middleware.IncomingRequestHandleMiddleware',\n    'Management.middleware.ErrorHandleMiddleware',",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "ROOT_URLCONF = 'finance.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'finance.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n    # 'DEFAULT_PERMISSION_CLASSES': (\n    #     'rest_framework.permissions.IsAuthenticated',",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n    # 'DEFAULT_PERMISSION_CLASSES': (\n    #     'rest_framework.permissions.IsAuthenticated',\n    # ),\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 10,  ",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n    # 'DEFAULT_PERMISSION_CLASSES': (\n    #     'rest_framework.permissions.IsAuthenticated',\n    # ),\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 10,  \n}",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(hours=4),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n    'ROTATE_REFRESH_TOKENS': False,\n    'BLACKLIST_AFTER_ROTATION': True,\n    'UPDATE_LAST_LOGIN': False,\n}\nCACHES = {\n    'default': {\n        'BACKEND': 'django_redis.cache.RedisCache',",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CACHES",
+        "kind": 5,
+        "importPath": "finance.settings",
+        "description": "finance.settings",
+        "peekOfCode": "CACHES = {\n    'default': {\n        'BACKEND': 'django_redis.cache.RedisCache',\n        'LOCATION': 'redis://127.0.0.1:6379/1',\n        'OPTIONS': {\n            'CLIENT_CLASS': 'django_redis.client.DefaultClient',\n        }\n    }\n}",
+        "detail": "finance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "finance.urls",
+        "description": "finance.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('account/', include('Account.urls','accouunt')),\n    path('management/', include('Management.urls','management')),\n    path('report/', include('Report.urls','report')),\n]",
+        "detail": "finance.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "finance.wsgi",
+        "description": "finance.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "finance.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'finance.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
