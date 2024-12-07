@@ -10,7 +10,6 @@ from .serializers import RegisterSerializer, LoginSerializer, UserProfileSeriali
 from rest_framework.permissions import IsAuthenticated
 from rest_framework_simplejwt.authentication import JWTAuthentication
 from rest_framework import viewsets
-from drf_yasg.utils import swagger_auto_schema
 
 
 class RegisterView(APIView):

@@ -56,6 +56,62 @@
         "documentation": {}
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -202,14 +258,6 @@
     },
     {
         "label": "serializers",
-        "importPath": "rest_framework",
-        "description": "rest_framework",
-        "isExtraImport": true,
-        "detail": "rest_framework",
-        "documentation": {}
-    },
-    {
-        "label": "permissions",
         "importPath": "rest_framework",
         "description": "rest_framework",
         "isExtraImport": true,
@@ -422,22 +470,6 @@
         "description": "rest_framework_simplejwt.authentication",
         "isExtraImport": true,
         "detail": "rest_framework_simplejwt.authentication",
-        "documentation": {}
-    },
-    {
-        "label": "swagger_auto_schema",
-        "importPath": "drf_yasg.utils",
-        "description": "drf_yasg.utils",
-        "isExtraImport": true,
-        "detail": "drf_yasg.utils",
-        "documentation": {}
-    },
-    {
-        "label": "swagger_auto_schema",
-        "importPath": "drf_yasg.utils",
-        "description": "drf_yasg.utils",
-        "isExtraImport": true,
-        "detail": "drf_yasg.utils",
         "documentation": {}
     },
     {
@@ -678,22 +710,6 @@
         "documentation": {}
     },
     {
-        "label": "get_schema_view",
-        "importPath": "drf_yasg.views",
-        "description": "drf_yasg.views",
-        "isExtraImport": true,
-        "detail": "drf_yasg.views",
-        "documentation": {}
-    },
-    {
-        "label": "openapi",
-        "importPath": "drf_yasg",
-        "description": "drf_yasg",
-        "isExtraImport": true,
-        "detail": "drf_yasg",
-        "documentation": {}
-    },
-    {
         "label": "get_wsgi_application",
         "importPath": "django.core.wsgi",
         "description": "django.core.wsgi",
@@ -837,6 +853,42 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Management.migrations.0002_alter_expense_created_at_alter_income_created_at_and_more",
+        "description": "Management.migrations.0002_alter_expense_created_at_alter_income_created_at_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Management', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='expense',\n            name='created_at',\n            field=models.DateTimeField(blank=True, null=True),\n        ),",
+        "detail": "Management.migrations.0002_alter_expense_created_at_alter_income_created_at_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Management.migrations.0003_remove_income_created_at_alter_income_date_received",
+        "description": "Management.migrations.0003_remove_income_created_at_alter_income_date_received",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Management', '0002_alter_expense_created_at_alter_income_created_at_and_more'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='income',\n            name='created_at',\n        ),\n        migrations.AlterField(",
+        "detail": "Management.migrations.0003_remove_income_created_at_alter_income_date_received",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Management.migrations.0004_alter_expense_created_at_alter_income_date_received_and_more",
+        "description": "Management.migrations.0004_alter_expense_created_at_alter_income_date_received_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Management', '0003_remove_income_created_at_alter_income_date_received'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='expense',\n            name='created_at',\n            field=models.DateField(blank=True, null=True),\n        ),",
+        "detail": "Management.migrations.0004_alter_expense_created_at_alter_income_date_received_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Management.migrations.0005_rename_created_at_expense_date_received_and_more",
+        "description": "Management.migrations.0005_rename_created_at_expense_date_received_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Management', '0004_alter_expense_created_at_alter_income_date_received_and_more'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='expense',\n            old_name='created_at',\n            new_name='date_received',\n        ),",
+        "detail": "Management.migrations.0005_rename_created_at_expense_date_received_and_more",
+        "documentation": {}
+    },
+    {
         "label": "IncomeAdmin",
         "kind": 6,
         "importPath": "Management.admin",
@@ -895,7 +947,7 @@
         "kind": 6,
         "importPath": "Management.models",
         "description": "Management.models",
-        "peekOfCode": "class Income(models.Model):\n    STATUS_CHOICES = [\n        ('Pending', 'Pending'),\n        ('Received', 'Received'),\n    ]\n    user = models.ForeignKey(Users, on_delete=models.CASCADE, related_name='incomes')\n    source_name = models.CharField(max_length=255)\n    amount = models.DecimalField(max_digits=10, decimal_places=2)\n    date_received = models.DateField()\n    status = models.CharField(max_length=10, choices=STATUS_CHOICES)",
+        "peekOfCode": "class Income(models.Model):\n    STATUS_CHOICES = [\n        ('Pending', 'Pending'),\n        ('Received', 'Received'),\n    ]\n    user = models.ForeignKey(Users, on_delete=models.CASCADE, related_name='incomes')\n    source_name = models.CharField(max_length=255)\n    amount = models.DecimalField(max_digits=10, decimal_places=2)\n    date_received = models.DateField(blank=True, null=True)\n    status = models.CharField(max_length=10, choices=STATUS_CHOICES)",
         "detail": "Management.models",
         "documentation": {}
     },
@@ -931,7 +983,7 @@
         "kind": 6,
         "importPath": "Management.serializers",
         "description": "Management.serializers",
-        "peekOfCode": "class ExpenseSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Expense\n        fields = ['id', 'category', 'amount', 'due_date', 'status', 'notes']\nclass LoanSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Loan\n        fields = ['loan_name', 'principal_amount', 'interest_rate', 'tenure_months','remaining_balance', 'status', 'notes']",
+        "peekOfCode": "class ExpenseSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Expense\n        fields = ['id', 'category', 'amount', 'due_date', 'status', 'notes','date_received']\nclass LoanSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Loan\n        fields = ['loan_name', 'principal_amount', 'interest_rate', 'tenure_months','remaining_balance', 'status', 'notes','date_received']",
         "detail": "Management.serializers",
         "documentation": {}
     },
@@ -940,7 +992,7 @@
         "kind": 6,
         "importPath": "Management.serializers",
         "description": "Management.serializers",
-        "peekOfCode": "class LoanSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Loan\n        fields = ['loan_name', 'principal_amount', 'interest_rate', 'tenure_months','remaining_balance', 'status', 'notes']",
+        "peekOfCode": "class LoanSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Loan\n        fields = ['loan_name', 'principal_amount', 'interest_rate', 'tenure_months','remaining_balance', 'status', 'notes','date_received']",
         "detail": "Management.serializers",
         "documentation": {}
     },
@@ -1021,7 +1073,7 @@
         "kind": 2,
         "importPath": "Report.views",
         "description": "Report.views",
-        "peekOfCode": "def FinancialSummary(request):\n    try:\n        filters = {'user': request.user}\n        user = request.user\n        logger.info(f\" request of user {user}\")\n        start_date = request.query_params.get('start_date')\n        end_date = request.query_params.get('end_date')\n        if start_date:\n            filters['created_at__gte'] = start_date\n        if end_date:",
+        "peekOfCode": "def FinancialSummary(request):\n    try:\n        filters = {'user': request.user}\n        user = request.user\n        logger.info(f\" request of user {user}\")\n        start_date = request.query_params.get('start_date')\n        end_date = request.query_params.get('end_date')\n        if start_date:\n            filters['date_received__gte'] = start_date\n        if end_date:",
         "detail": "Report.views",
         "documentation": {}
     },
@@ -1030,7 +1082,7 @@
         "kind": 2,
         "importPath": "Report.views",
         "description": "Report.views",
-        "peekOfCode": "def ReportVisualizationTrend(request):\n    # Parse the query parameters for date filtering\n    start_date = request.query_params.get('start_date')\n    end_date = request.query_params.get('end_date')\n    filters = {'user': request.user}\n    if start_date:\n        filters['created_at__gte'] = start_date\n    if end_date:\n        filters['created_at__lte'] = end_date\n    # Aggregate income and expenses by  ",
+        "peekOfCode": "def ReportVisualizationTrend(request):\n    start_date = request.query_params.get('start_date')\n    end_date = request.query_params.get('end_date')\n    filters = {'user': request.user}\n    if start_date:\n        filters['date_received__gte'] = start_date\n    if end_date:\n        filters['date_received__lte'] = end_date\n    # aggregate income and expenses by  \n    income_data = Income.objects.filter(**filters).annotate(month=TruncMonth('date_received')).values('month').annotate(income_total=Sum('amount')).order_by('month')",
         "detail": "Report.views",
         "documentation": {}
     },

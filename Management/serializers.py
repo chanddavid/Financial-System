@@ -16,11 +16,11 @@ class IncomeSerializer(serializers.ModelSerializer):
 class ExpenseSerializer(serializers.ModelSerializer):
     class Meta:
         model = Expense
-        fields = ['id', 'category', 'amount', 'due_date', 'status', 'notes']
+        fields = ['id', 'category', 'amount', 'due_date', 'status', 'notes','date_received']
 
 
 
 class LoanSerializer(serializers.ModelSerializer):
     class Meta:
         model = Loan
-        fields = ['loan_name', 'principal_amount', 'interest_rate', 'tenure_months','remaining_balance', 'status', 'notes']
+        fields = ['loan_name', 'principal_amount', 'interest_rate', 'tenure_months','remaining_balance', 'status', 'notes','date_received']

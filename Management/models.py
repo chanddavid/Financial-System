@@ -10,10 +10,9 @@ class Income(models.Model):
     user = models.ForeignKey(Users, on_delete=models.CASCADE, related_name='incomes')
     source_name = models.CharField(max_length=255)
     amount = models.DecimalField(max_digits=10, decimal_places=2)
-    date_received = models.DateField()
+    date_received = models.DateField(blank=True, null=True)
     status = models.CharField(max_length=10, choices=STATUS_CHOICES)
     notes = models.TextField(blank=True, null=True)
-    created_at = models.DateTimeField(default=timezone.now)
 
 
     def __str__(self):
@@ -39,7 +38,7 @@ class Expense(models.Model):
     due_date = models.DateField()
     status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='Pending')
     notes = models.TextField(blank=True, null=True)
-    created_at = models.DateTimeField(default=timezone.now)
+    date_received = models.DateField(blank=True, null=True)
 
     def __str__(self):
         return f"{self.category} - {self.amount}"
@@ -66,19 +65,19 @@ class Loan(models.Model):
     remaining_balance = models.DecimalField(max_digits=12, decimal_places=2)
     status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='Active')
     notes = models.TextField(blank=True, null=True)
-    created_at = models.DateTimeField(default=timezone.now)
+    date_received = models.DateField(blank=True, null=True)
 
     def __str__(self):
         return f"{self.loan_name} - {self.status}"
 
     def save(self, *args, **kwargs):
-        # Calculate monthly installment using the EMI formula
+        # monthly installment
         if self.principal_amount and self.interest_rate and self.tenure_months:
-            r = self.interest_rate / 1200  # Monthly interest rate
-            n = self.tenure_months
-            emi = self.principal_amount * r * ((1 + r) ** n) / (((1 + r) ** n) - 1)
+            r = self.interest_rate / 1200  # monthly interest rate
+            n = self.tenure_months #tenure in monjth
+            emi = self.principal_amount * r * ((1 + r) ** n) / (((1 + r) ** n) - 1) #formula for EMI
             self.monthly_installment = round(emi, 2)
-        self.remaining_balance = self.principal_amount  # Initial balance equals principal
+        self.remaining_balance = self.principal_amount 
         super().save(*args, **kwargs)
 
 
