@@ -94,17 +94,5 @@ Follow these steps to set up the project locally:
 
 ---
 
-## API Documentation
-
-- **Swagger**: API documentation is available at:
-    ```
-    http://127.0.0.1:8000/swagger/
-    ```
-- **ReDoc**: Alternative documentation can be found at:
-    ```
-    http://127.0.0.1:8000/redoc/
-    ```
-
----
 
 
