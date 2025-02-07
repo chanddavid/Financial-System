@@ -9,7 +9,7 @@ app_name="account"
 urlpatterns = [
     path('register/', RegisterView.as_view(), name='register'),#for register
     path('login/', LoginView.as_view(), name='login'),
-    path('profile/', UserProfileView.as_view(), name='profile'),
+    path('profile/', UserProfileView.as_view(), name='profile'),#ffor master testing
 ]
 
 
