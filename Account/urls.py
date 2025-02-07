@@ -11,7 +11,7 @@ urlpatterns = [
     path('login/', LoginView.as_view(), name='login'),#from remote repo
     path('profile/', UserProfileView.as_view(), name='profile'),#what are those
 ]
-#what is this
+#what is this rebase
 
 
 
