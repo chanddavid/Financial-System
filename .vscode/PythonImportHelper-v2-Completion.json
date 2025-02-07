@@ -812,7 +812,7 @@
         "kind": 5,
         "importPath": "Account.urls",
         "description": "Account.urls",
-        "peekOfCode": "urlpatterns = [\n    path('register/', RegisterView.as_view(), name='register'),\n    path('login/', LoginView.as_view(), name='login'),\n    path('profile/', UserProfileView.as_view(), name='profile'),\n]\n# router = DefaultRouter()\n# router.register('register/', RegisterViewSet, basename='income')\n# router.register('login/', LoginViewSet, basename='expense')\n# router.register('profile/', UserProfileViewSet, basename='loan')\n# urlpatterns = [",
+        "peekOfCode": "urlpatterns = [\n    path('register/', RegisterView.as_view(), name='register'),#for changes\n    path('login/', LoginView.as_view(), name='login'),\n    path('profile/', UserProfileView.as_view(), name='profile'),\n]\n# router = DefaultRouter()\n# router.register('register/', RegisterViewSet, basename='income')\n# router.register('login/', LoginViewSet, basename='expense')\n# router.register('profile/', UserProfileViewSet, basename='loan')\n# urlpatterns = [",
         "detail": "Account.urls",
         "documentation": {}
     },
