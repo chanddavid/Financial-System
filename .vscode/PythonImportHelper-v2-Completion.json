@@ -812,7 +812,7 @@
         "kind": 5,
         "importPath": "Account.urls",
         "description": "Account.urls",
-        "peekOfCode": "urlpatterns = [\n    path('register/', RegisterView.as_view(), name='register'),#for register\n    path('login/', LoginView.as_view(), name='login'),#from remote repo\n    path('profile/', UserProfileView.as_view(), name='profile'),#what are those\n]\n#what is this rebase and fetch\n# router = DefaultRouter()\n# router.register('register/', RegisterViewSet, basename='income')\n# router.register('login/', LoginViewSet, basename='expense')\n# router.register('profile/', UserProfileViewSet, basename='loan')",
+        "peekOfCode": "urlpatterns = [\n    path('register/', RegisterView.as_view(), name='register'),#for register\n    path('login/', LoginView.as_view(), name='login'),#from remote repo\n    path('profile/', UserProfileView.as_view(), name='profile'),#what are those\n]\n#what is this rebase and fetch and changess\n#new changes\n# router = DefaultRouter()\n# router.register('register/', RegisterViewSet, basename='income')\n# router.register('login/', LoginViewSet, basename='expense')",
         "detail": "Account.urls",
         "documentation": {}
     },

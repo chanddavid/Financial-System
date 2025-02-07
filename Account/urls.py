@@ -12,6 +12,7 @@ urlpatterns = [
     path('profile/', UserProfileView.as_view(), name='profile'),#what are those
 ]
 #what is this rebase and fetch and changess
+#new changes
 
 
 
